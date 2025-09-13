@@ -18,14 +18,14 @@ This is an individual student project developed to explore the intersection of s
 
 ## 📊 Sample Results
 
-### Emotion Analysis Dashboard
-![Dashboard View](dashboard.png)
+### Transcript with Emotion Annotation
+![Transcript View](transcript.png)
 
 ### Audio vs Text Emotion Comparison
 ![Comparison Chart](comparison.png)
 
-### Transcript with Emotion Annotation
-![Transcript View](transcript.png)
+### Emotion Analysis Dashboard
+![Analysis View](analysis.png)
 
 ## 🛠️ Installation
 
