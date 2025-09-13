@@ -14,7 +14,7 @@ This is an individual student project developed to explore the intersection of s
 
 ## 🚀 Live Demo
 
-![Check out the deployed website here !](https://emotion-aware-automatic-speech-recognition.streamlit.app/)
+[Check out the deployed website here !](https://emotion-aware-automatic-speech-recognition.streamlit.app/)
 
 ## 📊 Sample Results
 
