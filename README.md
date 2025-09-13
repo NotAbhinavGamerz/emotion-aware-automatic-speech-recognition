@@ -14,7 +14,7 @@ This is an individual student project developed to explore the intersection of s
 
 ## 🚀 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://youremotionasr-app.streamlit.app/)
+[![Check out the deployed website here !](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://emotion-aware-automatic-speech-recognition.streamlit.app/)
 
 ## 📊 Sample Results
 
