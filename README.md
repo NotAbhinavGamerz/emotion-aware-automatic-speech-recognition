@@ -21,11 +21,11 @@ This is an individual student project developed to explore the intersection of s
 ### Transcript with Emotion Annotation
 ![Transcript View](transcript.png)
 
-### Audio vs Text Emotion Comparison
-![Comparison Chart](comparison.png)
-
 ### Emotion Analysis Dashboard
 ![Analysis View](analysis.png)
+
+### Audio vs Text Emotion Comparison
+![Comparison Chart](comparison.png)
 
 ## 🛠️ Installation
 
