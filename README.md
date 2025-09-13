@@ -1,4 +1,3 @@
-# emotion-aware-automatic-speech-recognition
 # Emotion-Aware ASR
 
 An advanced speech recognition system that goes beyond transcription to detect emotional context in spoken language. This student project combines OpenAI's Whisper for speech recognition with emotion detection models to analyze both vocal patterns and textual content.
@@ -117,5 +116,9 @@ You can customize the application by:
 
 This project is licensed under the MIT License.
 
-## 🙏 Acknowledgments
+## 🙋‍♀️ Author
+
+Built by Antara Srivastava
+📧 antarakyw05@gmail.com
+🌐 github.com/antarades
 
