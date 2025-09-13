@@ -77,7 +77,8 @@ emotion-aware-asr/
 │   ├── record_audio.py     # Terminal audio recording utility
 ├── app.py                  # Streamlit web application
 ├── home-image.svg          # Home Page illustration
-├── requirements.txt        
+├── requirements.txt
+├── packages.txt     
 └── README.md
 ```
 
