@@ -71,14 +71,13 @@ python src/pipeline.py --mode record
 ```
 emotion-aware-asr/
 ├── src/
-│   ├── asr_whisper.py      # Whisper ASR integration
-│   ├── emotion_model.py    # Emotion detection models
+│   ├── asr_whisper.py      
+│   ├── emotion_model.py    
 │   ├── pipeline.py         # CLI pipeline
 │   ├── record_audio.py     # Terminal audio recording utility
-│   └── __pycache__/
 ├── app.py                  # Streamlit web application
-├── home-image.svg          # Application illustration
-├── requirements.txt        #
+├── home-image.svg          # Home Page illustration
+├── requirements.txt        
 └── README.md
 ```
 
